@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/hridyamrethunjayan/hridyamrethunjayan/main/Animate_gold_orbital_rings_artwork_20261014173849.gif" width="520" alt="HK-001 — The Curiosity Machine animated gold orbital core"/>
+<img src="https://raw.githubusercontent.com/hridyamrethunjayan/hridyamrethunjayan/main/Animate_gold_orbital_rings_artwork_20261014173849.gif" width="700" alt="HK-001 — The Curiosity Machine animated gold orbital core"/>
 
 <br/>
 
