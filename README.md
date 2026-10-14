@@ -1,218 +1,274 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2400&pause=900&color=C9A227&center=true&vCenter=true&width=650&lines=INITIALIZING+THE+CURIOSITY+MACHINE...;SCANNING+THE+UNKNOWN...;QUESTION.+EXPERIMENT.+DISCOVER.;SYSTEM+ONLINE.+POSSIBILITIES+UNDEFINED." alt="Curiosity Machine initialization"/>
 
 <br/>
 
-<sub>PERSONAL RESEARCH SYSTEM / HK-001</sub>
+<sub>PERSONAL RESEARCH SYSTEM &nbsp; / &nbsp; HK-001</sub>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/hridyamrethunjayan/hridyamrethunjayan/main/Animate_gold_orbital_rings_artwork_20261014173849.gif" width="700" alt="HK-001 — The Curiosity Machine animated gold orbital core"/>
+<img src="https://raw.githubusercontent.com/hridyamrethunjayan/hridyamrethunjayan/main/Animate_gold_orbital_rings_artwork_20261014173849.gif" width="900" alt="HK-001 — The Curiosity Machine animated gold orbital core"/>
 
 <br/>
 
-<sub>◉ CURIOSITY CORE / STATUS: EVOLVING</sub>
+<sub>◉ CURIOSITY CORE &nbsp; / &nbsp; STATUS: EVOLVING</sub>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
 
 # THE CURIOSITY MACHINE
 
-*At the centre is a question. Around it, an infinite number of possibilities.*
+### I don't just want to know what works.
+
+### I want to understand what makes it work.
+
+*An ongoing investigation into intelligence, creation, and the things we have yet to understand.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C9A227?style=flat-square&logo=linkedin&logoColor=080808)](https://www.linkedin.com/in/hridyak-p/)
-[![GitHub](https://img.shields.io/badge/GITHUB-C9A227?style=flat-square&logo=github&logoColor=080808)](https://github.com/hridyamrethunjayan)
+`INPUT: CURIOSITY` &nbsp; → &nbsp; `PROCESS: EXPERIMENTATION` &nbsp; → &nbsp; `OUTPUT: POSSIBILITIES`
 
 </div>
 
 ---
 
+## `00 / OPERATOR PROFILE`
+
+**Operator:** Hridya K P
+
+**Domain:** Artificial Intelligence
+
+**Directive:** Understand. Experiment. Build.
+
+I am fascinated by the boundary between what machines can do and what we have yet to teach them to do.
+
+How does a machine learn to interpret the world? When does a prediction become a useful decision? What happens when intelligence moves beyond a screen and into the physical world?
+
+These aren't just questions to read about.
+
+They're questions worth building around.
+
+I approach engineering as an investigation: understand the fundamentals, challenge assumptions, test ideas against reality, and learn from what breaks.
+
+**The objective isn't to appear to have all the answers. It's to become capable of finding better ones.**
+
+---
+
+## `01 / THE UNKNOWN FRONTIER`
+
+<sub>THREE DIRECTIONS. ONE UNENDING INVESTIGATION.</sub>
+
 <div align="center">
-
-## `01 / THE MIND`
-
-<br/>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/◉-C9A227?style=for-the-badge&labelColor=0D0D0D" alt="Perception symbol"/>
+
+<sub>01 / PERCEPTION</sub>
+
 <br/><br/>
-<b>PERCEIVE</b>
+
+**What does a machine see?**
+
 <br/>
-<sub>Observe the world.</sub>
-<br/><br/>
+
+<sub>Turning signals and observations into an interpretation of the world.</sub>
+
 </td>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/⌘-C9A227?style=for-the-badge&labelColor=0D0D0D" alt="Reasoning symbol"/>
+
+<sub>02 / REASONING</sub>
+
 <br/><br/>
-<b>REASON</b>
+
+**What does a machine understand?**
+
 <br/>
-<sub>Understand the patterns.</sub>
-<br/><br/>
+
+<sub>Moving beyond patterns toward meaningful predictions and decisions.</sub>
+
 </td>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/✳-C9A227?style=for-the-badge&labelColor=0D0D0D" alt="Creation symbol"/>
+
+<sub>03 / CREATION</sub>
+
 <br/><br/>
-<b>CREATE</b>
+
+**What can intelligence become?**
+
 <br/>
-<sub>Turn ideas into reality.</sub>
-<br/><br/>
+
+<sub>Transforming abstract ideas into systems that interact with reality.</sub>
+
 </td>
 </tr>
 </table>
 
 </div>
 
+These questions lead me across artificial intelligence, computer vision, robotics, and intelligent systems.
+
+The most interesting discoveries often happen where disciplines intersect — where software meets hardware, perception meets action, and theory meets the unpredictable real world.
+
+That intersection is where I want to keep exploring.
+
 ---
+
+## `02 / ACTIVE FREQUENCIES`
+
+<sub>AREAS UNDER CONTINUOUS EXPLORATION</sub>
 
 <div align="center">
 
-## `02 / THE EXPERIMENT LOOP`
-
-<br/>
-
-<table>
-<tr>
-<td align="center"><b>01</b><br/>OBSERVE</td>
-<td align="center">→</td>
-<td align="center"><b>02</b><br/>QUESTION</td>
-<td align="center">→</td>
-<td align="center"><b>03</b><br/>BUILD</td>
-</tr>
-<tr>
-<td colspan="5" align="center">↓</td>
-</tr>
-<tr>
-<td align="center"><b>06</b><br/>REPEAT</td>
-<td align="center">←</td>
-<td align="center"><b>05</b><br/>REFINE</td>
-<td align="center">←</td>
-<td align="center"><b>04</b><br/>TEST</td>
-</tr>
-</table>
-
-<br/>
-
-<sub>ITERATION IS THE METHOD.</sub>
+<img src="https://img.shields.io/badge/01-ARTIFICIAL_INTELLIGENCE-C9A227?style=flat-square&labelColor=080808" alt="Artificial intelligence"/>
+<img src="https://img.shields.io/badge/02-COMPUTER_VISION-C9A227?style=flat-square&labelColor=080808" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/03-ROBOTICS-C9A227?style=flat-square&labelColor=080808" alt="Robotics"/>
+<img src="https://img.shields.io/badge/04-INTELLIGENT_SYSTEMS-C9A227?style=flat-square&labelColor=080808" alt="Intelligent systems"/>
+<img src="https://img.shields.io/badge/05-EXPERIMENTAL_RESEARCH-C9A227?style=flat-square&labelColor=080808" alt="Experimental research"/>
 
 </div>
 
----
+These are not trophies or claims of mastery.
 
-<div align="center">
+They are coordinates on a map that is still being drawn.
 
-## `03 / THE RESEARCH UNIVERSE`
-
-<br/>
-
-<a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0D0D0D?style=for-the-badge&logo=probot&logoColor=C9A227" alt="Artificial Intelligence"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/Robotics">
-<img src="https://img.shields.io/badge/ROBOTICS-0D0D0D?style=for-the-badge&logo=robotframework&logoColor=C9A227" alt="Robotics"/>
-</a>
-
-<a href="https://opencv.org/">
-<img src="https://img.shields.io/badge/COMPUTER_VISION-0D0D0D?style=for-the-badge&logo=opencv&logoColor=C9A227" alt="Computer Vision"/>
-</a>
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/RESEARCH-0D0D0D?style=for-the-badge&logo=googlescholar&logoColor=C9A227" alt="Research"/>
-</a>
-
-<br/><br/>
-
-</div>
+Every new concept changes the map. Every experiment reveals another unexplored direction.
 
 ---
 
-<div align="center">
+## `03 / THE EXPERIMENT PROTOCOL`
+
+<sub>HOW AN IDEA EARNS THE RIGHT TO BECOME A SYSTEM</sub>
+
+```text
+              OBSERVE
+                 |
+                 v
+        QUESTION THE ASSUMPTION
+                 |
+                 v
+          FORM A HYPOTHESIS
+                 |
+                 v
+          BUILD A PROTOTYPE
+                 |
+                 v
+         TEST AGAINST REALITY
+                 |
+                 v
+          ANALYSE THE FAILURE
+                 |
+                 v
+          REFINE THE MODEL
+                 |
+                 v
+            BUILD AGAIN
+                 |
+                 +-----------> REPEAT
+```
+
+An idea is a beginning, not a conclusion.
+
+A successful demonstration is a beginning, not proof of reliability.
+
+And a failure is not necessarily a dead end; sometimes it is the first observation that makes the real problem visible.
+
+I value fundamentals over shortcuts, evidence over assumptions, and understanding over appearances.
+
+**If I cannot explain why a system works, I have more to learn.**
+
+---
 
 ## `04 / THE WORKBENCH`
 
-<br/>
+<sub>THE INSTRUMENTS OF EXPLORATION</sub>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,git,github,flask,arduino,vscode&theme=dark" alt="Technology toolkit"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,git,github,flask,arduino,vscode&theme=dark" alt="Python, C, Java, Git, GitHub, Flask, Arduino and VS Code"/>
 
 <br/><br/>
 
+<sub>TOOLS ARE INSTRUMENTS. UNDERSTANDING IS THE CAPABILITY.</sub>
+
 </div>
 
----
+The tools will change. The frameworks will evolve. Entire ways of building systems may become obsolete.
 
-<div align="center">
+What matters is developing the ability to understand a problem, choose the right approach, and construct something that stands up to testing.
+
+The workbench is never really complete.
+
+---
 
 ## `05 / UNSOLVED VARIABLES`
 
-<br/>
+<sub>QUESTIONS THAT KEEP THE MACHINE RUNNING</sub>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<br/>
-<b>Can machines learn to understand?</b>
-<br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
-<b>Can intelligence emerge from simplicity?</b>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<br/>
-<b>Where does imagination meet computation?</b>
-<br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
-<b>What have we not discovered yet?</b>
-<br/><br/>
-</td>
-</tr>
-</table>
+- Can we build intelligent systems that remain reliable beyond carefully controlled demonstrations?
+- How can machines interpret an imperfect, changing physical world?
+- What makes a system genuinely useful rather than merely impressive?
+- How do we turn theoretical understanding into practical engineering?
+- Which assumptions are we accepting simply because nobody has challenged them yet?
 
-</div>
+I don't expect these questions to have simple answers.
+
+I expect better experiments to produce better questions.
+
+There will always be another abstraction to look beneath, another limitation to investigate, and another possibility waiting to be tested.
+
+**The unknown is not an obstacle to the process. It is the reason for the process.**
+
+---
+
+## `06 / A SYSTEM WITHOUT A FINAL STATE`
+
+Most systems are designed around a destination.
+
+This one is designed around continuous evolution.
+
+Every concept understood creates room for a more difficult question. Every prototype exposes a new limitation. Every answer changes the questions worth asking next.
+
+I am not trying to build a profile that suggests I have finished learning.
+
+I am building a record of a process: the ideas I investigate, the systems I attempt to create, and the understanding I gain along the way.
+
+The goal is not to know everything.
+
+It is to become better at discovering what I don't know.
 
 ---
 
 <div align="center">
 
-## `06 / NO FINAL STATE`
+## `CONNECTION ESTABLISHED?`
+
+*Every interesting idea begins somewhere. Perhaps the next one begins here.*
 
 <br/>
 
-<img src="https://img.shields.io/badge/LEARNING-CONTINUOUS-C9A227?style=flat-square&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/EXPERIMENTS-ONGOING-C9A227?style=flat-square&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/POSSIBILITIES-UNDEFINED-C9A227?style=flat-square&labelColor=0D0D0D"/>
+<a href="https://www.linkedin.com/in/hridyak-p/">
+<img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-LINKEDIN-C9A227?style=for-the-badge&labelColor=080808&logo=linkedin&logoColor=C9A227" alt="Connect on LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/hridyamrethunjayan">
+<img src="https://img.shields.io/badge/EXPLORE_THE_MACHINE-GITHUB-C9A227?style=for-the-badge&labelColor=080808&logo=github&logoColor=C9A227" alt="Explore GitHub"/>
+</a>
 
 <br/><br/>
 
-*Not a finished system. A system becoming.*
+<sub>HK-001 &nbsp; / &nbsp; CURIOSITY IS THE INPUT.</sub>
 
 <br/>
 
-</div>
-
----
-
-<div align="center">
-
-<sub>HK-001 / CURIOSITY IS THE INPUT.</sub>
-
-<br/>
-
-<sub>DISCOVERY IS THE OUTPUT. NO FINAL VERSION. ONLY THE NEXT ITERATION.</sub>
+<sub>DISCOVERY IS THE OUTPUT.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&section=footer" width="100%" alt=""/>
+<sub>NO FINAL VERSION. ONLY THE NEXT ITERATION.</sub>
 
 </div>
