@@ -11,6 +11,19 @@
 <img src="https://raw.githubusercontent.com/hridyamrethunjayan/hridyamrethunjayan/main/Animate_gold_orbital_rings_artwork_20261014173849.gif" width="1000" alt="HK-001 — The Curiosity Machine animated gold orbital core"/>
 
 <br/>
+<div align="center">
+
+### `01 / THE MIND`
+
+<table>
+<tr>
+<td align="center">◉<br><b>PERCEIVE</b></td>
+<td align="center">⌘<br><b>REASON</b></td>
+<td align="center">✳<br><b>CREATE</b></td>
+</tr>
+</table>
+
+</div>
 
 <sub>◉ CURIOSITY CORE &nbsp; / &nbsp; STATUS: EVOLVING</sub>
 
